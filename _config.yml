@@ -1,0 +1,9 @@
+title: "Anton Hinckley — STAT 386 Blog"
+description: "Data Curation & EDA Projects"
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+collections:
+  posts:
+    output: true
+    permalink: /posts/:path/
