@@ -6,4 +6,4 @@ markdown: kramdown
 collections:
   posts:
     output: true
-    permalink: /posts/:path/
+    permalink: /pokemon-stats/:path/
